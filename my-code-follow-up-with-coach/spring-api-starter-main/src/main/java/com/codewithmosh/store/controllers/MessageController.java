@@ -8,9 +8,9 @@ import com.codewithmosh.store.entities.MessageEntity;
 @RestController
 public class MessageController {
 
-    @RequestMapping("/hello")
-    public MessageEntity sayHello(){
-        return new MessageEntity("Hello World");
-    }
+    // @RequestMapping("/hello")
+    // public MessageEntity sayHello(){
+    //     return new MessageEntity("Hello World");
+    // }
     
 }

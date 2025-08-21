@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "password": "Admin112233!@",
+            "name": "store_api",
+            "database": "store_api",
+            "username": "root"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
